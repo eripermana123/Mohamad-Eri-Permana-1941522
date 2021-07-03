@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "992396833424",
+    "project_id": "eri-project-21146",
+    "storage_bucket": "eri-project-21146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992396833424:android:07e67823e990a8f40fde15",
+        "android_client_info": {
+          "package_name": "com.example.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992396833424-mfjiqu98iscd2hslr9cg6bjomnuj6qn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrqos6z16-d2qaI3XHz5lqNXWHF6qt0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992396833424-mfjiqu98iscd2hslr9cg6bjomnuj6qn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992396833424:android:6dbcb9055bfa81090fde15",
+        "android_client_info": {
+          "package_name": "com.example.tombol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992396833424-mfjiqu98iscd2hslr9cg6bjomnuj6qn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrqos6z16-d2qaI3XHz5lqNXWHF6qt0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992396833424-mfjiqu98iscd2hslr9cg6bjomnuj6qn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
